@@ -1,4 +1,4 @@
-package br.com.dio.desafio;
+package br.com.dio.desafio.view;
 
 import br.com.dio.desafio.domain.*;
 
